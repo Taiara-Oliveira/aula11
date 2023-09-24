@@ -1,0 +1,115 @@
+body{
+    color: #000000;
+    background-color: #9c9994;
+        margin: 0;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+    .cabecalho{
+        background-image: url(Imagens/caderno-z-_-80-cor-f1-animal-na-floresta-assustadora-sob-o-luar-bico-maligno-generativo-ai-freepik_0.jpg);
+        height: 700px;
+        background-size: cover;
+        padding-top: 1px;
+        background-attachment: fixed;
+    }
+    
+    .texto-estatico{
+        font-size: 40px;
+        color: #ffffffea;
+        text-shadow: 2px 2px  rgb(0, 0, 0);
+    }
+    .div-cabecalho{
+    margin: 100px auto 0 auto;
+    width: 80% ; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #2c2b2b;
+    text-align: center;
+    font-family: 'Borel', cursive;
+}
+
+.div-cabecalho h1{
+    font-size: 80px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+}
+.div-cabecalho a{
+    background-color: #333331;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+
+.div-cabecalho a:hover{
+background-color: #ffffff;
+color: #696964;
+
+}
+.cabecalho nav ul{
+    margin: 25px 40px 0 0;
+    text-align: right;
+  
+}
+
+.cabecalho nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 15px; 
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 12px;
+}
+.cabecalho nav a{
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #8f8d82;
+    padding: 5px;
+    border-radius: 5px;
+    
+}
+
+.cabecalho nav a:hover{
+    background-color: #ffffff;
+color: #747362;
+
+}
+
+.divBusca{
+    background-color:#E0EEEE;
+    border:solid 2px #5F9EA0;
+    border-radius:10px;
+    width:300px;
+    height:32px;
+    display: center;
+    text-align: center;
+    
+  }
+  
+  .txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-size:18px;
+    border:none;
+    height:32px;
+    width:191px;}
+
+    .btnBusca{
+        border:none;
+        float:left;
+        height:32px;
+        border-radius:0 7px 7px 0;
+        width:70px;
+        font-weight:bold;
+        background:#5F9EA0;
+      }
+      
+      .divBusca img{
+        float:left;
+      }
+
+      .divbusca img1{
+        width: 10%;
+        height: 2px;
+      }
